@@ -14,7 +14,7 @@ timezone:
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://cezarytworzewski.github.io/
-root: test-blog
+#root: test-blog
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -101,7 +101,7 @@ ignore:
 theme: clean-blog
 theme_config:
   menu_title: Strona główna
-  index_cover: /blog/images/front.jpg
+  index_cover: /test-blog/images/front.jpg
 
   # Header
   menu:
